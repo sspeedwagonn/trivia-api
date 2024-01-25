@@ -1,0 +1,104 @@
+{
+    "Food and Drink": [
+        {
+            "question": "What is the primary ingredient in traditional Japanese miso soup?",
+            "answer": "Soybean paste (miso)"
+        },
+        {
+            "question": "Which fruit is known as the 'king of fruits' and has a strong odor?",
+            "answer": "Durian"
+        },
+        {
+            "question": "What Italian dish consists of thinly sliced raw meat or fish, typically served as an appetizer?",
+            "answer": "Carpaccio"
+        },
+        {
+            "question": "What is the main ingredient in guacamole?",
+            "answer": "Avocado"
+        },
+        {
+            "question": "Which type of pasta is shaped like small rice grains and is often used in soups?",
+            "answer": "Orzo"
+        },
+        {
+            "question": "What is the national dish of Spain, consisting of saffron-flavored rice and various ingredients?",
+            "answer": "Paella"
+        },
+        {
+            "question": "What is the primary ingredient in hummus?",
+            "answer": "Chickpeas (garbanzo beans)"
+        },
+        {
+            "question": "Which alcoholic beverage is made from fermented grapes?",
+            "answer": "Wine"
+        },
+        {
+            "question": "What type of cuisine is known for its use of raw fish and rice rolls?",
+            "answer": "Sushi"
+        },
+        {
+            "question": "What is the name of the popular Indian dish made of lentils and spices, often served with rice?",
+            "answer": "Dal"
+        },
+        {
+            "question": "Which vegetable is known as the 'king of vegetables' and is often used in Italian dishes like pizza and pasta?",
+            "answer": "Tomato"
+        },
+        {
+            "question": "What is the primary ingredient in the Mexican dish guacamole?",
+            "answer": "Avocado"
+        },
+        {
+            "question": "What type of nut is commonly used to make pesto sauce?",
+            "answer": "Pine nut"
+        },
+        {
+            "question": "Which popular dessert consists of layers of sponge cake, custard, and chocolate?",
+            "answer": "Black Forest cake"
+        },
+        {
+            "question": "What is the national dish of Japan, typically consisting of vinegared rice, seafood, and vegetables?",
+            "answer": "Sushi"
+        },
+        {
+            "question": "What type of bread is typically used for making a Reuben sandwich?",
+            "answer": "Rye bread"
+        },
+        {
+            "question": "Which fruit is often called the 'queen of fruits' and is known for its sweet and aromatic flavor?",
+            "answer": "Mango"
+        },
+        {
+            "question": "What is the primary ingredient in the Korean dish kimchi?",
+            "answer": "Cabbage"
+        },
+        {
+            "question": "Which type of pasta is shaped like small rice grains and is commonly used in soups?",
+            "answer": "Orzo"
+        },
+        {
+            "question": "What is the main ingredient in traditional Mexican guacamole?",
+            "answer": "Avocado"
+        },
+        {
+            "question": "Which Italian dish features thin slices of raw meat or fish, often served as an appetizer?",
+            "answer": "Carpaccio"
+        },
+        {
+            "question": "What type of bean is the main ingredient in classic baked beans?",
+            "answer": "Navy bean"
+        },
+        {
+            "question": "What is the primary ingredient in the Indian dish paneer tikka?",
+            "answer": "Paneer (Indian cheese)"
+        },
+        {
+            "question": "Which beverage is often referred to as 'the nectar of the gods'?",
+            "answer": "Honey"
+        },
+        {
+            "question": "What is the primary ingredient in the Middle Eastern dip known as baba ghanoush?",
+            "answer": "Eggplant"
+        }
+    ]
+}

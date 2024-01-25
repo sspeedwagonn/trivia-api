@@ -1,0 +1,104 @@
+{
+    "Science": [
+        {
+            "question": "What is the process by which plants make their own food using sunlight?",
+            "answer": "Photosynthesis"
+        },
+        {
+            "question": "What is the chemical symbol for oxygen?",
+            "answer": "O"
+        },
+        {
+            "question": "Which gas do humans exhale when they breathe out?",
+            "answer": "Carbon dioxide"
+        },
+        {
+            "question": "What is the chemical formula for water?",
+            "answer": "H2O"
+        },
+        {
+            "question": "Who is known as the father of modern physics?",
+            "answer": "Albert Einstein"
+        },
+        {
+            "question": "What is the smallest planet in our solar system?",
+            "answer": "Mercury"
+        },
+        {
+            "question": "What is the chemical symbol for helium?",
+            "answer": "He"
+        },
+        {
+            "question": "Which gas is responsible for the Earth's ozone layer?",
+            "answer": "Ozone (O3)"
+        },
+        {
+            "question": "What is the study of fossils called?",
+            "answer": "Paleontology"
+        },
+        {
+            "question": "What is the chemical symbol for carbon?",
+            "answer": "C"
+        },
+        {
+            "question": "Who developed the theory of relativity?",
+            "answer": "Albert Einstein"
+        },
+        {
+            "question": "What is the process by which water vapor turns into liquid water?",
+            "answer": "Condensation"
+        },
+        {
+            "question": "What is the atomic number of oxygen?",
+            "answer": "8"
+        },
+        {
+            "question": "What is the study of earthquakes called?",
+            "answer": "Seismology"
+        },
+        {
+            "question": "Which gas is the most abundant in Earth's atmosphere?",
+            "answer": "Nitrogen"
+        },
+        {
+            "question": "What is the chemical symbol for sodium?",
+            "answer": "Na"
+        },
+        {
+            "question": "What is the smallest unit of an element that retains its chemical properties?",
+            "answer": "Atom"
+        },
+        {
+            "question": "What is the study of the behavior of matter at very low temperatures called?",
+            "answer": "Cryogenics"
+        },
+        {
+            "question": "What is the chemical symbol for potassium?",
+            "answer": "K"
+        },
+        {
+            "question": "Who is known for the laws of motion and universal gravitation?",
+            "answer": "Isaac Newton"
+        },
+        {
+            "question": "What is the process by which rocks break down into smaller pieces?",
+            "answer": "Weathering"
+        },
+        {
+            "question": "What is the chemical symbol for silver?",
+            "answer": "Ag"
+        },
+        {
+            "question": "What is the study of the universe called?",
+            "answer": "Astronomy"
+        },
+        {
+            "question": "What is the chemical symbol for calcium?",
+            "answer": "Ca"
+        },
+        {
+            "question": "What is the study of the Earth's climate called?",
+            "answer": "Climatology"
+        }
+    ]
+}

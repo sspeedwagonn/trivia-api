@@ -1,0 +1,104 @@
+{
+    "Sports": [
+        {
+            "question": "Which country won the FIFA World Cup in 2018?",
+            "answer": "France"
+        },
+        {
+            "question": "In which sport would you perform a slam dunk?",
+            "answer": "Basketball"
+        },
+        {
+            "question": "Who holds the record for the most home runs in a single MLB season?",
+            "answer": "Barry Bonds"
+        },
+        {
+            "question": "Which city hosted the 2016 Summer Olympics?",
+            "answer": "Rio de Janeiro"
+        },
+        {
+            "question": "What is the highest possible score in a single game of bowling?",
+            "answer": "300"
+        },
+        {
+            "question": "Who is the all-time leading scorer in NBA history?",
+            "answer": "Kareem Abdul-Jabbar"
+        },
+        {
+            "question": "In which sport would you perform a penalty kick?",
+            "answer": "Soccer (Football)"
+        },
+        {
+            "question": "Which tennis player holds the record for the most Grand Slam titles?",
+            "answer": "Roger Federer"
+        },
+        {
+            "question": "What is the distance of a marathon race in kilometers?",
+            "answer": "42.195 km"
+        },
+        {
+            "question": "Who is known as 'The Greatest' in the world of boxing?",
+            "answer": "Muhammad Ali"
+        },
+        {
+            "question": "Which country won the most gold medals in the 2020 Tokyo Olympics?",
+            "answer": "United States"
+        },
+        {
+            "question": "In which sport is the term 'birdie' commonly used?",
+            "answer": "Golf"
+        },
+        {
+            "question": "Who holds the record for the most career home runs in MLB history?",
+            "answer": "Barry Bonds"
+        },
+        {
+            "question": "Which country won the 2019 Cricket World Cup?",
+            "answer": "England"
+        },
+        {
+            "question": "What is the standard height of a basketball hoop in feet and inches?",
+            "answer": "10 feet"
+        },
+        {
+            "question": "Which Formula 1 driver holds the record for the most World Drivers' Championship titles?",
+            "answer": "Michael Schumacher"
+        },
+        {
+            "question": "Which NFL quarterback has won the most Super Bowl MVP awards?",
+            "answer": "Tom Brady"
+        },
+        {
+            "question": "In which sport would you perform a slam serve?",
+            "answer": "Tennis"
+        },
+        {
+            "question": "Who is the fastest man in the world, known for his sprinting prowess?",
+            "answer": "Usain Bolt"
+        },
+        {
+            "question": "Which country hosted the 2014 FIFA World Cup?",
+            "answer": "Brazil"
+        },
+        {
+            "question": "What is the diameter of a standard basketball in inches?",
+            "answer": "29.5 inches"
+        },
+        {
+            "question": "Who is the most decorated Olympian of all time, with the most Olympic gold medals?",
+            "answer": "Michael Phelps"
+        },
+        {
+            "question": "Which country won the most gold medals in the 2016 Summer Olympics?",
+            "answer": "United States"
+        },
+        {
+            "question": "In which sport would you perform a hat-trick?",
+            "answer": "Cricket"
+        },
+        {
+            "question": "Who is the all-time leading scorer in NHL history?",
+            "answer": "Wayne Gretzky"
+        }
+    ]
+}

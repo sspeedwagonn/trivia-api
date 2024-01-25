@@ -1,0 +1,104 @@
+{
+    "Literature": [
+        {
+            "question": "Who wrote the novel '1984'?",
+            "answer": "George Orwell"
+        },
+        {
+            "question": "Which novel features a character named Atticus Finch and addresses themes of racial injustice?",
+            "answer": "To Kill a Mockingbird"
+        },
+        {
+            "question": "What is the title of J.R.R. Tolkien's first book in 'The Lord of the Rings' trilogy?",
+            "answer": "The Fellowship of the Ring"
+        },
+        {
+            "question": "Who is the author of 'Pride and Prejudice'?",
+            "answer": "Jane Austen"
+        },
+        {
+            "question": "In which novel would you find the characters Holden Caulfield and Phoebe?",
+            "answer": "The Catcher in the Rye"
+        },
+        {
+            "question": "What is the subtitle of Mary Shelley's 'Frankenstein'?",
+            "answer": "The Modern Prometheus"
+        },
+        {
+            "question": "Who wrote the play 'Romeo and Juliet'?",
+            "answer": "William Shakespeare"
+        },
+        {
+            "question": "In 'The Great Gatsby,' who is the mysterious millionaire who throws lavish parties?",
+            "answer": "Jay Gatsby"
+        },
+        {
+            "question": "Which author is known for the 'Harry Potter' book series?",
+            "answer": "J.K. Rowling"
+        },
+        {
+            "question": "What is the title of Harper Lee's only novel?",
+            "answer": "To Kill a Mockingbird"
+        },
+        {
+            "question": "Who wrote the epic poem 'The Iliad'?",
+            "answer": "Homer"
+        },
+        {
+            "question": "What is the famous detective created by Sir Arthur Conan Doyle?",
+            "answer": "Sherlock Holmes"
+        },
+        {
+            "question": "Which novel tells the story of Santiago, an old Cuban fisherman?",
+            "answer": "The Old Man and the Sea"
+        },
+        {
+            "question": "Who is the author of 'The Chronicles of Narnia' series?",
+            "answer": "C.S. Lewis"
+        },
+        {
+            "question": "What is the title of F. Scott Fitzgerald's novel about the American Dream?",
+            "answer": "The Great Gatsby"
+        },
+        {
+            "question": "Who wrote 'The Adventures of Huckleberry Finn'?",
+            "answer": "Mark Twain"
+        },
+        {
+            "question": "Which famous author wrote 'Brave New World'?",
+            "answer": "Aldous Huxley"
+        },
+        {
+            "question": "In 'Moby-Dick,' what is the name of the obsessed captain pursuing the white whale?",
+            "answer": "Captain Ahab"
+        },
+        {
+            "question": "Who is known for the 'A Song of Ice and Fire' series, which inspired the TV show 'Game of Thrones'?",
+            "answer": "George R.R. Martin"
+        },
+        {
+            "question": "What is the title of the novel that explores the life of Winston Smith in a dystopian society?",
+            "answer": "1984"
+        },
+        {
+            "question": "Which author created the character Hercule Poirot, a famous Belgian detective?",
+            "answer": "Agatha Christie"
+        },
+        {
+            "question": "In 'The Hobbit,' who is the hobbit that embarks on an adventure to defeat Smaug the dragon?",
+            "answer": "Bilbo Baggins"
+        },
+        {
+            "question": "Who wrote the play 'Hamlet'?",
+            "answer": "William Shakespeare"
+        },
+        {
+            "question": "What is the title of the first book in the 'A Series of Unfortunate Events' series?",
+            "answer": "The Bad Beginning"
+        },
+        {
+            "question": "Which novel explores the life of Jane Eyre, an orphaned governess?",
+            "answer": "Jane Eyre"
+        }
+    ]
+}

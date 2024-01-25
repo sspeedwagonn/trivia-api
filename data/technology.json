@@ -1,0 +1,104 @@
+{
+    "Technology": [
+        {
+            "question": "Who co-founded Microsoft alongside Bill Gates?",
+            "answer": "Paul Allen"
+        },
+        {
+            "question": "What does the acronym 'HTTP' stand for in website addresses?",
+            "answer": "Hypertext Transfer Protocol"
+        },
+        {
+            "question": "Which company is known for its 'I'm Lovin' It' slogan?",
+            "answer": "McDonald's"
+        },
+        {
+            "question": "What is the full form of 'URL' in web technology?",
+            "answer": "Uniform Resource Locator"
+        },
+        {
+            "question": "Who is often referred to as the 'Father of the Computer'?",
+            "answer": "Charles Babbage"
+        },
+        {
+            "question": "What does 'GPS' stand for in the context of navigation?",
+            "answer": "Global Positioning System"
+        },
+        {
+            "question": "Which social media platform was founded by Mark Zuckerberg?",
+            "answer": "Facebook"
+        },
+        {
+            "question": "What is the name of the first commercially successful video game, released in 1972?",
+            "answer": "Pong"
+        },
+        {
+            "question": "Which tech company's logo features a half-eaten apple?",
+            "answer": "Apple"
+        },
+        {
+            "question": "What programming language was developed by Guido van Rossum and is known for its readability?",
+            "answer": "Python"
+        },
+        {
+            "question": "Who is credited with inventing the World Wide Web?",
+            "answer": "Tim Berners-Lee"
+        },
+        {
+            "question": "What is the full form of 'PDF' in document format?",
+            "answer": "Portable Document Format"
+        },
+        {
+            "question": "Which company's slogan is 'Just Do It'?",
+            "answer": "Nike"
+        },
+        {
+            "question": "What is the most widely used programming language for creating web applications?",
+            "answer": "JavaScript"
+        },
+        {
+            "question": "What type of code is used to style web pages?",
+            "answer": "CSS (Cascading Style Sheets)"
+        },
+        {
+            "question": "Who is the co-founder of Tesla, Inc. and SpaceX?",
+            "answer": "Elon Musk"
+        },
+        {
+            "question": "What is the process of converting data into a secret code to prevent unauthorized access?",
+            "answer": "Encryption"
+        },
+        {
+            "question": "What is the name of the virtual assistant developed by Amazon?",
+            "answer": "Alexa"
+        },
+        {
+            "question": "Which video-sharing platform is known for its six-second looping videos?",
+            "answer": "Vine"
+        },
+        {
+            "question": "What is the abbreviation 'AI' commonly used for in the tech industry?",
+            "answer": "Artificial Intelligence"
+        },
+        {
+            "question": "Which company's search engine is the most widely used worldwide?",
+            "answer": "Google"
+        },
+        {
+            "question": "What is the term for a small piece of code that performs a specific task or function within a larger program?",
+            "answer": "Snippet"
+        },
+        {
+            "question": "Who developed the first commercially successful computer mouse?",
+            "answer": "Douglas Engelbart"
+        },
+        {
+            "question": "What technology standard allows wireless communication between devices over short distances?",
+            "answer": "Bluetooth"
+        },
+        {
+            "question": "Which company's logo features a bitten apple?",
+            "answer": "Apple"
+        }
+    ]
+}

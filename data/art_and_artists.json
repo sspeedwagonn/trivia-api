@@ -1,0 +1,104 @@
+{
+    "Art and Artists": [
+        {
+            "question": "Who painted the 'Mona Lisa'?",
+            "answer": "Leonardo da Vinci"
+        },
+        {
+            "question": "Which famous artist is known for cutting off a part of his own ear?",
+            "answer": "Vincent van Gogh"
+        },
+        {
+            "question": "What artistic movement is known for its use of geometric shapes and primary colors?",
+            "answer": "Bauhaus"
+        },
+        {
+            "question": "Who is the famous Mexican artist known for her self-portraits and surrealist works?",
+            "answer": "Frida Kahlo"
+        },
+        {
+            "question": "What is the technique of creating images by arranging small pieces of colored glass or other materials called?",
+            "answer": "Mosaic"
+        },
+        {
+            "question": "Which artist is known for his iconic works like 'The Persistence of Memory' with melting clocks?",
+            "answer": "Salvador Dali"
+        },
+        {
+            "question": "What art movement is characterized by its use of bold colors, geometric shapes, and abstraction?",
+            "answer": "Abstract Expressionism"
+        },
+        {
+            "question": "Who sculpted the famous statue of 'David'?",
+            "answer": "Michelangelo"
+        },
+        {
+            "question": "What is the famous art technique of creating images on a wall by applying pigments onto wet plaster?",
+            "answer": "Fresco"
+        },
+        {
+            "question": "Who is known for painting 'Starry Night' and 'The Sunflowers'?",
+            "answer": "Vincent van Gogh"
+        },
+        {
+            "question": "What Italian artist is known for his detailed paintings on the ceiling of the Sistine Chapel in Vatican City?",
+            "answer": "Michelangelo"
+        },
+        {
+            "question": "What is the art movement characterized by its use of everyday objects as art, often associated with Marcel Duchamp?",
+            "answer": "Dadaism"
+        },
+        {
+            "question": "Who painted 'The Birth of Venus,' depicting the goddess Venus emerging from the sea?",
+            "answer": "Sandro Botticelli"
+        },
+        {
+            "question": "What type of art involves creating three-dimensional figures or objects from various materials?",
+            "answer": "Sculpture"
+        },
+        {
+            "question": "Which Dutch artist is known for his detailed paintings of domestic scenes, like 'The Milkmaid'?",
+            "answer": "Johannes Vermeer"
+        },
+        {
+            "question": "What art movement is known for its emphasis on the emotional and psychological impact of colors and shapes?",
+            "answer": "Abstract Expressionism"
+        },
+        {
+            "question": "Who painted 'The Persistence of Memory,' featuring melting clocks in a surreal landscape?",
+            "answer": "Salvador Dali"
+        },
+        {
+            "question": "What is the term for an artwork created by assembling various objects into a single piece?",
+            "answer": "Assemblage"
+        },
+        {
+            "question": "Who is known for painting 'The Girl with a Pearl Earring'?",
+            "answer": "Johannes Vermeer"
+        },
+        {
+            "question": "What art movement is characterized by its use of industrial materials and a focus on simplicity and functionality?",
+            "answer": "Minimalism"
+        },
+        {
+            "question": "Which famous artist is known for his series of paintings of water lilies?",
+            "answer": "Claude Monet"
+        },
+        {
+            "question": "What is the technique of creating an image by scratching lines onto a surface covered in wax?",
+            "answer": "Encaustic"
+        },
+        {
+            "question": "Who painted 'The Birth of Venus,' featuring the goddess Venus emerging from a seashell?",
+            "answer": "Sandro Botticelli"
+        },
+        {
+            "question": "What is the art style characterized by detailed and realistic depictions of everyday life?",
+            "answer": "Realism"
+        },
+        {
+            "question": "Who is known for his sculpture 'The Thinker'?",
+            "answer": "Auguste Rodin"
+        }
+    ]
+}

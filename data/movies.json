@@ -1,0 +1,104 @@
+{
+    "Movies": [
+        {
+            "question": "Who won the Academy Award for Best Actor in 2021 for his role in 'The Father'?",
+            "answer": "Anthony Hopkins"
+        },
+        {
+            "question": "Which movie features a character named Jack Dawson and Rose DeWitt Bukater?",
+            "answer": "Titanic"
+        },
+        {
+            "question": "In 'The Lord of the Rings' trilogy, who played the role of Frodo Baggins?",
+            "answer": "Elijah Wood"
+        },
+        {
+            "question": "What is the name of the fictional African country in 'Black Panther'?",
+            "answer": "Wakanda"
+        },
+        {
+            "question": "Which animated film tells the story of a young lion named Simba?",
+            "answer": "The Lion King"
+        },
+        {
+            "question": "Who directed the 1994 film 'Pulp Fiction'?",
+            "answer": "Quentin Tarantino"
+        },
+        {
+            "question": "In 'Forrest Gump,' what does Forrest say his mother always told him life is like?",
+            "answer": "A box of chocolates"
+        },
+        {
+            "question": "Which actor starred as Tony Stark/Iron Man in the Marvel Cinematic Universe?",
+            "answer": "Robert Downey Jr."
+        },
+        {
+            "question": "Who played the role of Hermione Granger in the 'Harry Potter' film series?",
+            "answer": "Emma Watson"
+        },
+        {
+            "question": "Which movie features a character named Clarice Starling and Dr. Hannibal Lecter?",
+            "answer": "The Silence of the Lambs"
+        },
+        {
+            "question": "Which film won the Academy Award for Best Picture in 2020?",
+            "answer": "Parasite"
+        },
+        {
+            "question": "In 'The Matrix,' what is Neo's real name?",
+            "answer": "Thomas Anderson"
+        },
+        {
+            "question": "Who directed 'Jurassic Park' and 'E.T. the Extra-Terrestrial'?",
+            "answer": "Steven Spielberg"
+        },
+        {
+            "question": "Which actress portrayed Katniss Everdeen in 'The Hunger Games' film series?",
+            "answer": "Jennifer Lawrence"
+        },
+        {
+            "question": "What 1972 film is often considered one of the greatest gangster movies ever made?",
+            "answer": "The Godfather"
+        },
+        {
+            "question": "Who played the character of James Bond in 'Casino Royale' (2006)?",
+            "answer": "Daniel Craig"
+        },
+        {
+            "question": "What is the highest-grossing animated film of all time (as of my knowledge cutoff date)?",
+            "answer": "Frozen II"
+        },
+        {
+            "question": "Who directed 'Inception' and 'The Dark Knight' trilogy?",
+            "answer": "Christopher Nolan"
+        },
+        {
+            "question": "Which movie features a character named Ellen Ripley battling extraterrestrial creatures?",
+            "answer": "Alien"
+        },
+        {
+            "question": "What was the first feature-length animated film ever released?",
+            "answer": "Snow White and the Seven Dwarfs"
+        },
+        {
+            "question": "Who played the title role in the film 'Schindler's List'?",
+            "answer": "Liam Neeson"
+        },
+        {
+            "question": "Which actor played the Joker in 'The Dark Knight' (2008)?",
+            "answer": "Heath Ledger"
+        },
+        {
+            "question": "What is the highest-grossing film of all time (as of my knowledge cutoff date)?",
+            "answer": "Avengers: Endgame"
+        },
+        {
+            "question": "Who directed the 'Harry Potter and the Sorcerer's Stone' film?",
+            "answer": "Chris Columbus"
+        },
+        {
+            "question": "In 'The Shawshank Redemption,' what is the name of the fictional prison?",
+            "answer": "Shawshank State Penitentiary"
+        }
+    ]
+}
