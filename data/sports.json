@@ -99,6 +99,86 @@
         {
             "question": "Who is the all-time leading scorer in NHL history?",
             "answer": "Wayne Gretzky"
+        },
+        {
+            "question": "Which country has won the most FIFA World Cup titles in men's soccer?",
+            "answer": "Brazil (5 titles)"
+        },
+        {
+            "question": "Who holds the record for the most career points scored in the NBA?",
+            "answer": "Kareem Abdul-Jabbar"
+        },
+        {
+            "question": "In which sport would you perform a slam dunk?",
+            "answer": "Basketball"
+        },
+        {
+            "question": "Which city hosted the 2016 Summer Olympics?",
+            "answer": "Rio de Janeiro, Brazil"
+        },
+        {
+            "question": "Who is the most decorated Olympian of all time, with 28 medals?",
+            "answer": "Michael Phelps"
+        },
+        {
+            "question": "What is the diameter of a standard golf hole in inches?",
+            "answer": "4.25 inches"
+        },
+        {
+            "question": "In tennis, what is it called when a player wins a set without losing a single point?",
+            "answer": "A \"Golden Set\""
+        },
+        {
+            "question": "Which country is known as the birthplace of the sport of cricket?",
+            "answer": "England"
+        },
+        {
+            "question": "How many players are on a standard soccer team?",
+            "answer": "11 players"
+        },
+        {
+            "question": "What is the maximum number of clubs a golfer is allowed to carry in their bag during a round of golf?",
+            "answer": "14 clubs"
+        },
+        {
+            "question": "Who is the only boxer to have won world titles in eight different weight divisions?",
+            "answer": "Manny Pacquiao"
+        },
+        {
+            "question": "What is the term for a perfect score of 10 in gymnastics?",
+            "answer": "A \"Perfect 10\""
+        },
+        {
+            "question": "Which NFL team has won the most Super Bowl championships as of 2022?",
+            "answer": "The New England Patriots (6 titles)"
+        },
+        {
+            "question": "In which year was the first modern Olympic Games held?",
+            "answer": "1896"
+        },
+        {
+            "question": "What is the distance between the pitching mound and home plate in Major League Baseball?",
+            "answer": "60 feet 6 inches (18.44 meters)"
+        },
+        {
+            "question": "Who holds the record for the most home runs hit in a single MLB season?",
+            "answer": "Barry Bonds (73 home runs in 2001)"
+        },
+        {
+            "question": "What is the name of the highest mountain in the world, often associated with mountaineering?",
+            "answer": "Mount Everest"
+        },
+        {
+            "question": "Which country won the most gold medals at the 2020 Summer Olympics in Tokyo?",
+            "answer": "United States"
+        },
+        {
+            "question": "What is the term for a perfect game in bowling?",
+            "answer": "A \"300 game\""
+        },
+        {
+            "question": "Who is the all-time leading scorer in the history of the NBA?",
+            "answer": "Kareem Abdul-Jabbar"
         }
     ]
 }
